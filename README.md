@@ -76,11 +76,6 @@ For detailed architecture information, see [ARCHITECTURE.md](ARCHITECTURE.md).
 - Owner/Editor access to sheets you want to integrate
 - Ability to share sheets with service account email
 
-### Technical Requirements
-- Snowflake Enterprise Edition or higher (for External Access Integrations)
-- Python 3.11 runtime (included in Snowflake)
-- Internet connectivity from Snowflake to googleapis.com
-
 ---
 
 ## Quick Start
